@@ -10,4 +10,4 @@
 
 - [查看项目文件](立方体相册/)
 - 在本地打开 [`立方体相册/index.html`](立方体相册/index.html)，即可体验完整的悬停交互。无需安装依赖。
-- 在GitHub Pages打开[立方体相册](https://cmwlvip.github.io/html/立方体相册/)
+- 在`GitHub Pages`打开[立方体相册](https://cmwlvip.github.io/html/立方体相册/index.html)。
