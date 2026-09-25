@@ -10,13 +10,4 @@
 
 - [查看项目文件](立方体相册/)
 - 在本地打开 [`立方体相册/index.html`](立方体相册/index.html)，即可体验完整的悬停交互。无需安装依赖。
-
-### 在 GitHub Pages 上体验
-
-上传仓库后，在 **Settings → Pages** 中选择 **Deploy from a branch**，将发布目录设为默认分支的 **/(root)**。发布完成后，项目地址为：
-
-```text
-https://<你的用户名>.github.io/<仓库名>/立方体相册/
-```
-
-仓库首页上方的 GIF 是效果预览；完整的网页交互请通过浏览器打开项目页面。
+- 在GitHub Pages打开[立方体相册](https://cmwlvip.github.io/html/立方体相册/)
